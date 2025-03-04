@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm ztztmc 👋
 
-<!--
-**ztztmc/ztztmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I ususally code Minecraft-related projects. I am currently working on Planet Client, a 1.8.9 Minecraft Client. I am mainly good at designing uis. 
 
-Here are some ideas to get you started:
+## 🚀 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, Python, Java
+- **Web Development:** HTML, CSS, Node.js
+- **Databases:** MongoDB
+
+## 📂 Current Projects
+
+- **[Planet Client](planetclient.github.io):** Minecraft client for 1.8.9 built for performance containing features never seen before.
+
+## 📫 How to Reach Me
+
+- **Email:** ztztalt@gmail.com
+- **Discord:** ztzt
