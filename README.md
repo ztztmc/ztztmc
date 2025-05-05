@@ -1,8 +1,8 @@
-# Hi there, I'm ztztmc 👋
+# Hi there, I'm ztzt 👋
 
 I ususally code Minecraft-related projects.
 
-## 🚀 Skills and Technologies
+## 🚀 Skills
 
 - **Languages:** JavaScript, Python, Java
 - **Web Development:** HTML, CSS, Node.js
