@@ -14,5 +14,4 @@ I ususally code Minecraft-related projects.
 
 - **Email:** ztztalt@gmail.com
 - **Discord:** ztzt
-
-Buy Me a Coffee: [<p><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-buymeacoffee-fff700?style=flat-square&logo=mongodb&logoColor=white" /></p>](https://buymeacoffee.com/ztztbw)
+[<p><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/-buymeacoffee-fff700?style=flat-square&logo=mongodb&logoColor=white" /></p>](https://buymeacoffee.com/ztztbw)
