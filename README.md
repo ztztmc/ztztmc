@@ -6,9 +6,9 @@ I ususally code Minecraft-related projects.
 
 ## 🚀 Skills
 
-- **Languages:** <p><img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />, Python, Java</p>
+- **Languages:** Javascript, Python, Java
 - **Web Development:** HTML, CSS, Node.js
-- **Databases:** <p><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></p>
+- **Databases:** MongoDB
 
 ## 📫 How to Reach Me
 
