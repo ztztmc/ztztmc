@@ -7,8 +7,8 @@ I ususally code Minecraft-related projects.
 ## 🚀 Skills
 
 - **Languages:** Javascript, Python, Java
-- **Web Development:** HTML, CSS, Node.js
-- **Databases:** MongoDB
+- **Web Development:** HTML, CSS, NextJS, Tailwind 
+- **Databases:** MongoDB, Supabase, Firebase
 
 ## 📫 How to Reach Me
 
