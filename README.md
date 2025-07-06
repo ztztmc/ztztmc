@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ztztmc&abbreviated=true&color=yellow)
 
-I ususally code Minecraft-related projects.
+Trying to learn web & app dev
 
 ## 🚀 Skills
 
