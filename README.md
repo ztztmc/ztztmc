@@ -2,12 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=ztztmc&abbreviated=true&color=yellow)
 
-Trying to learn web & app dev
+Trying to learn web, app & minecraft development
 
 ## 🚀 Skills
 
 - **Languages:** Javascript, Python, Java
-- **Web Development:** HTML, CSS, NextJS, Tailwind 
+- **Web Development:** HTML, CSS, NextJS, Tailwind
+- **Minecraft Modding:** Forge, MCP, Legacy Fabric, Mixins
 - **Databases:** MongoDB, Supabase, Firebase
 
 ## 📫 How to Reach Me
